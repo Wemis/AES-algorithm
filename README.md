@@ -1,4 +1,4 @@
-# Implementation of the symmetric AES-128 CBC encryption algorithm in C
+Author: Danylo Derkach
 
 ## Usage example
 ```C
